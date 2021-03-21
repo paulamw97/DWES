@@ -1,0 +1,16 @@
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+footer {
+  margin-top: 5%;
+  padding-left: 15px;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 50px;
+  width: 100%;
+  background: grey;
+}
